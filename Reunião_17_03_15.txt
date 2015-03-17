@@ -1,0 +1,28 @@
+Processo do que nos é necessário:
+1 - Candidatura (processo da inscrição)
+2 - Prioritização
+3 - Atribuição da mensalidade
+4 - Comunicação da decisão -> criança = carta / idoso = telefone / deficiente = 
+5 - Celebração de contrato ou reencaminha para lista de espera
+
+
+1ª Primeira vez
+
+Na candidatura quem pode mexer no sistema são: Serviços Administrativos e Diretor Técnico.
+Todos os campos são obrigatórios.
+
+O nosso sistema eventualmente terá que comunicar com o sistema atual deles f3m.
+O utente só entra no sistema após a inscrição ter sucesso através do sistema f3m.
+
+O Sr. Carlos colocou as 11 perguntas e estas foram sendo respondidas.
+
+Observações:
+
+Respostas sociais são as categorias.
+Uma criança com deficiência ocupa duas vagas.
+Uma criança com deficiência tem prioridade.
+
+
+Formas de pagamento:
+********EM DESUSO********
+Em caso de débito direto o sistema precisa gerar um documento para que o cliente assine. Para que depois não venha pedir satisfações de que o CSPB retirou dinheiro sem autorização.
